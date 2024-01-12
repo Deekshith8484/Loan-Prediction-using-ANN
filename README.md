@@ -1,4 +1,4 @@
-The dataset you're referring to is for the purpose of automating the loan eligibility process based on customer details provided in online application forms. Here's a breakdown of the dataset:
+The dataset you're referring to is for the purpose of automating the loan eligibility process based on customer details provided in online application forms. 
 
 ### Dataset Information:
 
